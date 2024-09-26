@@ -1,0 +1,1 @@
+print("The first spinjitsu master created NINJAGO")
